@@ -1,6 +1,6 @@
 /* HASIBS TECHS 2019-1-22
  * Tranmsitter code for the Arduino Radio control with PWM output
- * Install the NRF24 library to your IDE
+ * Install the NRF24 library to your IDE ok
  
 
  
